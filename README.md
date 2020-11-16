@@ -17,9 +17,9 @@ Flow of the project:
 * Data Visualization & Analytics in Data Studio
 
 
+IMDb Dataset Details\
 Source data: https://www.imdb.com/interfaces/
 
-IMDb Dataset Details
 Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set. The first line in each file contains headers that describe what is in each column. A ‘\N’ is used to denote that a particular field is missing or null for that title/name. 
 
 The data IMDB dataset consists of information regarding different types of videos clips, including TV Series, Mini Series, movies, etcs. We only focus on the movie data for this project.  
