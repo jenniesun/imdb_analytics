@@ -35,3 +35,9 @@ Below is a summary of the areas of interest of the project:
 * Characters played by award-winning actors/actresses
 * Most versatile film crew of all time
 * Time-series analysis using real-time data from Wikipedia film pages (our project picks 2019 and 2020 data)
+
+
+### Project Member
+
+Jennie Sun:[@jenniesun](https://github.com/jenniesun)
+Dean Huang:[DeanHuang-Git] (https://github.com/DeanHuang-Git)
