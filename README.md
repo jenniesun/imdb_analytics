@@ -40,4 +40,4 @@ Below is a summary of the areas of interest of the project:
 #### Project Member
 Jennie Sun:[@jenniesun](https://github.com/jenniesun)
 
-Dean Huang:[@DeanHuang-Git] (https://github.com/DeanHuang-Git)
+Dean Huang:[@DeanHuang-Git](https://github.com/DeanHuang-Git)
