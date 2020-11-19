@@ -9,7 +9,7 @@ Video Presentation: https://youtu.be/KV1s33TZv4c
 Preliminary data cleaning cource code can be found in the repository. 
 
 
-Flow of the project: 
+Flow of The Project: 
 
 * Data Cleaning in Python
 * Data Storing in GCP buckets
