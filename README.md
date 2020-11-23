@@ -35,8 +35,8 @@ Below is a summary of the areas of interest of the project:
 <img src="https://i.imgur.com/vHoMNey.png" width=60% height=60%>
 
 * Most active movie crew (in terms of the number of films they participated)
-<img src="https://i.imgur.com/EnJhH13.png" width=40% height=50%>
-<img src="https://i.imgur.com/FfV0bsf.png" width=40% height=50%>
+<img src="https://i.imgur.com/EnJhH13.png" width=60% height=60%>
+<img src="https://i.imgur.com/FfV0bsf.png" width=60% height=60%>
 
 * Most active actors
 <img src="https://i.imgur.com/5DqDThz.png" width=60% height=60%>
