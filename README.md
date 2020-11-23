@@ -39,12 +39,12 @@ Below is a summary of the areas of interest of the project:
 
 * Most active actors
 * Films with highest ratings
-<img src="https://i.imgur.com/vps40RE.png" width=60% height=60%>
+<img src="https://i.imgur.com/vps40RE.png" width=50% height=50%>
 
 * Characters played by award-winning actors/actresses
 * Most versatile film crew of all time
 * Time-series analysis using real-time data from Wikipedia film pages (our project picks 2019 and 2020 data)
-<img src="https://i.imgur.com/vc82LC9.png" width=60% height=60%>
+<img src="https://i.imgur.com/vc82LC9.png" width=80% height=80%>
 
 ### Project Member
 Jennie Sun:[@jenniesun](https://github.com/jenniesun)
