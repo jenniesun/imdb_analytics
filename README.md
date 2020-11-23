@@ -35,20 +35,20 @@ Below is a summary of the areas of interest of the project:
 <img src="https://i.imgur.com/vHoMNey.png" width=60% height=60%>
 
 * Most active movie crew (in terms of the number of films they participated)
-<img src="https://i.imgur.com/EnJhH13.png" width=50% height=50%>
-<img src="https://i.imgur.com/FfV0bsf.png" width=50% height=50%>
+<img src="https://i.imgur.com/EnJhH13.png" width=40% height=50%>
+<img src="https://i.imgur.com/FfV0bsf.png" width=40% height=50%>
 
 * Most active actors
 <img src="https://i.imgur.com/5DqDThz.png" width=60% height=60%>
 
 * Films with highest ratings
-<img src="https://i.imgur.com/vps40RE.png" width=40% height=40%>
+<img src="https://i.imgur.com/vps40RE.png" width=35% height=35%>
 
 * Characters played by award-winning actors/actresses
-<img src="https://i.imgur.com/UPnXgTO.png" width=30% height=30%>
+<img src="https://i.imgur.com/UPnXgTO.png" width=35% height=35%>
           
 * Most versatile film crew of all time
-<img src="https://i.imgur.com/Hh3BdwC.png" width=80% height=80%>
+<img src="https://i.imgur.com/Hh3BdwC.png" width=85% height=85%>
 
 * Time-series analysis using real-time data from Wikipedia film pages (our project picks 2019 and 2020 data)
 <img src="https://i.imgur.com/vc82LC9.png" width=85% height=85%>
