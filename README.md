@@ -29,14 +29,22 @@ The data IMDB dataset consists of information regarding different types of video
 Below is a summary of the areas of interest of the project: 
 
 * Number of moviews produced each year and the trend of volume
-<img src="https://i.imgur.com/S3pddOM.png" width=50% height=50%>
+<img src="https://i.imgur.com/S3pddOM.png" width=60% height=60%>
+
 * Top genres in the recent years (our project picks a range from 2012 to 2019)
+<img src="https://i.imgur.com/vHoMNey.png" width=60% height=60%>
+
 * Most active movie crew (in terms of the number of films they participated)
+<img src="https://i.imgur.com/FfV0bsf.png" width=60% height=60%>
+
 * Most active actors
 * Films with highest ratings
+<img src="https://i.imgur.com/vps40RE.png" width=60% height=60%>
+
 * Characters played by award-winning actors/actresses
 * Most versatile film crew of all time
 * Time-series analysis using real-time data from Wikipedia film pages (our project picks 2019 and 2020 data)
+<img src="https://i.imgur.com/vc82LC9.png" width=60% height=60%>
 
 ### Project Member
 Jennie Sun:[@jenniesun](https://github.com/jenniesun)
