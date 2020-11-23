@@ -29,7 +29,7 @@ The data IMDB dataset consists of information regarding different types of video
 Below is a summary of the areas of interest of the project: 
 
 * Number of moviews produced each year and the trend of volume
-![](img src="https://i.imgur.com/S3pddOM.png" width=50% height=50%)
+<img src="https://i.imgur.com/S3pddOM.png" width=50% height=50%>
 * Top genres in the recent years (our project picks a range from 2012 to 2019)
 * Most active movie crew (in terms of the number of films they participated)
 * Most active actors
