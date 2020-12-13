@@ -54,7 +54,7 @@ Below is a summary of the areas of interest of the project:
 <img src="https://i.imgur.com/vc82LC9.png" width=85% height=85%>
 <img src="https://i.imgur.com/VSMXRxq.png" width=85% height=85%>
 
-### Project Member
+### Project Member 
 Jennie Sun:[@jenniesun](https://github.com/jenniesun)
 
 Dean Huang:[@DeanHuang-Git](https://github.com/DeanHuang-Git)
